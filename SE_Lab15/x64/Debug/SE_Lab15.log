@@ -1,0 +1,9 @@
+﻿  Error.cpp
+  In.cpp
+  Log.cpp
+  Out.cpp
+  Parm.cpp
+  SE_Lab14.cpp
+D:\Desktop\Second Course\КПО\SE_Lab15\SE_Lab14.cpp(25,5): warning C4102: Log: неиспользованная метка
+  Создание кода...
+  SE_Lab15.vcxproj -> D:\Desktop\Second Course\КПО\SE_Lab15\x64\Debug\SE_Lab15.exe

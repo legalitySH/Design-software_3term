@@ -1,0 +1,11 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (SE_Lab14.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Error.cpp
+  In.cpp
+D:\Desktop\Second Course\КПО\SE_Lab15\SE_Lab15\In.cpp(28,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Desktop\Second Course\КПО\SE_Lab15\SE_Lab15\In.cpp(55,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Desktop\Second Course\КПО\SE_Lab15\SE_Lab15\In.cpp(73,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Log.cpp
+  Parm.cpp
+  SE_Lab14.cpp
+  Создание кода...
+  SE_Lab15.vcxproj -> D:\Desktop\Second Course\КПО\SE_Lab15\Debug\SE_Lab15.exe
